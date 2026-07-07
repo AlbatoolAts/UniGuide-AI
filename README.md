@@ -155,9 +155,11 @@ Final Answer
 
 ---
 
-## Author
+## Authors
 
 Albatool Alattas
+Futoon Abuzaid
+Raghad Bawazeer
 
 ---
 
